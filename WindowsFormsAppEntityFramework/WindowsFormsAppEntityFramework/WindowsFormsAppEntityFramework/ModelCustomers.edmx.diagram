@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ae02a99315054ac98996985586317c3d" Name="Diagram1" ZoomLevel="75">
+        <EntityTypeShape EntityType="HiTechManagementDBModel.Author" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.AuthorsBook" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.Book" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.Category" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.Customer" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.Employee" Width="1.5" PointX="7.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.JobPosition" Width="1.5" PointX="9.375" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.OrderDetail" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.Order" Width="1.5" PointX="6.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.Publisher" Width="1.5" PointX="11.25" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.Status" Width="1.5" PointX="8.125" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.sysdiagram" Width="1.5" PointX="12.375" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechManagementDBModel.User" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

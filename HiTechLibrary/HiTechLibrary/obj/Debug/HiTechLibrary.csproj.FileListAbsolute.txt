@@ -1,0 +1,11 @@
+C:/DA3_W2022/DA3_FinalProject/HiTechLibrary/HiTechLibrary/bin/Debug/HiTechLibrary.dll
+C:/DA3_W2022/DA3_FinalProject/HiTechLibrary/HiTechLibrary/bin/Debug/HiTechLibrary.pdb
+C:/DA3_W2022/DA3_FinalProject/HiTechLibrary/HiTechLibrary/obj/Debug/HiTechLibrary.csproj.CoreCompileInputs.cache
+C:/DA3_W2022/DA3_FinalProject/HiTechLibrary/HiTechLibrary/obj/Debug/HiTechLibrary.dll
+C:/DA3_W2022/DA3_FinalProject/HiTechLibrary/HiTechLibrary/obj/Debug/HiTechLibrary.pdb
+/Users/aafrinsayani/Documents/IT Programmer Analyst - Lasalle College./Sem 3/Multi-Tier-Applicaiton/DA3_FinalProject/HiTechLibrary/HiTechLibrary/bin/Debug/HiTechLibrary.dll
+/Users/aafrinsayani/Documents/IT Programmer Analyst - Lasalle College./Sem 3/Multi-Tier-Applicaiton/DA3_FinalProject/HiTechLibrary/HiTechLibrary/bin/Debug/HiTechLibrary.pdb
+/Users/aafrinsayani/Documents/IT Programmer Analyst - Lasalle College./Sem 3/Multi-Tier-Applicaiton/DA3_FinalProject/HiTechLibrary/HiTechLibrary/obj/Debug/HiTechLibrary.csproj.AssemblyReference.cache
+/Users/aafrinsayani/Documents/IT Programmer Analyst - Lasalle College./Sem 3/Multi-Tier-Applicaiton/DA3_FinalProject/HiTechLibrary/HiTechLibrary/obj/Debug/HiTechLibrary.csproj.CoreCompileInputs.cache
+/Users/aafrinsayani/Documents/IT Programmer Analyst - Lasalle College./Sem 3/Multi-Tier-Applicaiton/DA3_FinalProject/HiTechLibrary/HiTechLibrary/obj/Debug/HiTechLibrary.dll
+/Users/aafrinsayani/Documents/IT Programmer Analyst - Lasalle College./Sem 3/Multi-Tier-Applicaiton/DA3_FinalProject/HiTechLibrary/HiTechLibrary/obj/Debug/HiTechLibrary.pdb
